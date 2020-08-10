@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+/*body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtVHwM1a3Rf-V093y6u28VSAovuwZgJWZmJg&usqp=CAU");
+  background-size: cover;
+}
+*/
+
+.App {
+  background-color: #111;
+}
